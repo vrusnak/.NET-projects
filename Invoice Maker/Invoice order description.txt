@@ -1,0 +1,26 @@
+Invoice number
+Invoice date
+Due date
+Company to which the invoice is to be sent
+Name of a person to be addressed to
+Street address
+Zipcode
+City
+Country
+Number of items
+Description for Item 1 (not more than one row)
+Quantity of Item 1
+Unit price for Item 1
+Tax in % for Item 1
+Description for Item 2 (not more than one row)
+Quantity of Item 2
+Unit price for Item 2
+Tax in % for Item 2
+<Same for all items >
+Name of the Company (sender of invoice)
+Street
+Zip code
+City
+Coyuntry
+Phone number
+Home page URL
