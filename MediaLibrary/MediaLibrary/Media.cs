@@ -20,6 +20,7 @@ namespace MediaLibrary
         string[] availableLoans = new string[100];
         string[] unavailableLoans = new string[100];
 
+
         /// <summary>
         /// Constructor Media. Creates two new string arrays. 
         /// One for all the available loans, another for the unavailable ones.
