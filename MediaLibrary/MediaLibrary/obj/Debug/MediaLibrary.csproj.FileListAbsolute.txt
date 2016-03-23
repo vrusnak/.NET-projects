@@ -1,0 +1,14 @@
+c:\users\viktor\documents\visual studio 2013\Projects\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+c:\users\viktor\documents\visual studio 2013\Projects\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe
+c:\users\viktor\documents\visual studio 2013\Projects\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2013\Projects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.Properties.Resources.resources
+c:\users\viktor\documents\visual studio 2013\Projects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.GenerateResource.Cache
+c:\users\viktor\documents\visual studio 2013\Projects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe
+c:\users\viktor\documents\visual studio 2013\Projects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.LogonForm.resources
+c:\users\viktor\documents\visual studio 2013\Projects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.MainForm.resources
+c:\users\viktor\documents\visual studio 2013\Projects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.AddNewUserForm.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\MediaLibrary_update\MediaLibrary\bin\Debug\MediaLibrary.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\MediaLibrary_update\MediaLibrary\obj\Debug\MediaLibrary.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\MediaLibrary_update\MediaLibrary\obj\Debug\MediaLibrary.pdb
