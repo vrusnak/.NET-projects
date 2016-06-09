@@ -1,0 +1,13 @@
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\bin\Debug\Assignment 6 lvl2.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\bin\Debug\Assignment 6 lvl2.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\bin\Debug\Assignment 6 lvl2.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\obj\Debug\Assignment 6 lvl2.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\obj\Debug\MainWindow.baml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\obj\Debug\MainWindow.g.cs
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\obj\Debug\App.g.cs
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\obj\Debug\Assignment 6 lvl2_MarkupCompile.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\obj\Debug\Assignment 6 lvl2.g.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\obj\Debug\Assignment_6_lvl2.Properties.Resources.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\obj\Debug\Assignment 6 lvl2.csproj.GenerateResource.Cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\obj\Debug\Assignment 6 lvl2.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\Assignment 6 lvl2\obj\Debug\Assignment 6 lvl2.pdb

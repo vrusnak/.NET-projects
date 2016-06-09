@@ -1,0 +1,7 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\InvoiceTest\bin\Debug\InvoiceTest.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\InvoiceTest\bin\Debug\InvoiceTest.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\InvoiceTest\bin\Debug\Assignment 6 lvl2.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\InvoiceTest\bin\Debug\Assignment 6 lvl2.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\InvoiceTest\obj\Debug\InvoiceTest.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\InvoiceTest\obj\Debug\InvoiceTest.dll
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6 lvl2\InvoiceTest\obj\Debug\InvoiceTest.pdb
