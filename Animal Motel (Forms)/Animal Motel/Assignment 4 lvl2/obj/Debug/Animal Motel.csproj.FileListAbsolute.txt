@@ -1,0 +1,11 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 4 lvl2\Assignment 4 lvl2\bin\Debug\Animal Motel.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 4 lvl2\Assignment 4 lvl2\bin\Debug\Animal Motel.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 4 lvl2\Assignment 4 lvl2\bin\Debug\Animal Motel.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 4 lvl2\Assignment 4 lvl2\obj\Debug\Animal Motel.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 4 lvl2\Assignment 4 lvl2\obj\Debug\Assignment_4_lvl2.MainForm.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 4 lvl2\Assignment 4 lvl2\obj\Debug\Assignment_4_lvl2.Properties.Resources.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 4 lvl2\Assignment 4 lvl2\obj\Debug\Assignment_4_lvl2.RecipeForm.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 4 lvl2\Assignment 4 lvl2\obj\Debug\Assignment_4_lvl2.StaffForm.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 4 lvl2\Assignment 4 lvl2\obj\Debug\Animal Motel.csproj.GenerateResource.Cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 4 lvl2\Assignment 4 lvl2\obj\Debug\Animal Motel.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 4 lvl2\Assignment 4 lvl2\obj\Debug\Animal Motel.pdb

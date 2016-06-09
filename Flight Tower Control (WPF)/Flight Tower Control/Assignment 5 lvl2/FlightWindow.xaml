@@ -1,0 +1,20 @@
+﻿<Window x:Name="FlightWindow1" x:Class="Assignment_5_lvl2.FlightWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FlightWindow" Height="326" Width="400" WindowStartupLocation="Manual" Closed="FlightWindow1_Closed" Closing="FlightWindow1_Closing">
+
+    <Grid Margin="0,0,0,-2">
+        <Button x:Name="btnTakeOff" Content="Take off" HorizontalAlignment="Left" Margin="29,244,0,0" VerticalAlignment="Top" Width="75" Click="btnTakeOff_Click"/>
+        <Button x:Name="btnLand" Content="Land" HorizontalAlignment="Right" Margin="0,244,31,0" VerticalAlignment="Top" Width="75" IsEnabled="False" Click="btnLand_Click"/>
+        <Image x:Name="flightImage" Height="179" Margin="30,20,30,0" VerticalAlignment="Top" />
+        <ComboBox x:Name="cbChangeRoute" Margin="118,244,118,0" VerticalAlignment="Top" Height="30" IsEnabled="False" SelectionChanged="cbChangeRoute_SelectionChanged" Foreground="#FF080707" BorderBrush="Black">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="Black" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <Label x:Name="lblChangeRoute" Content="Change route:" HorizontalAlignment="Left" Margin="118,218,0,0" VerticalAlignment="Top" FontFamily="Stencil"/>
+    </Grid>
+</Window>

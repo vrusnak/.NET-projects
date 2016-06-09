@@ -1,0 +1,768 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;textBoxDescription.Name" xml:space="preserve">
+    <value>textBoxDescription</value>
+  </data>
+  <data name="&gt;&gt;textBoxDescription.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxDescription.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;textBoxDescription.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnAddIngredients.Name" xml:space="preserve">
+    <value>btnAddIngredients</value>
+  </data>
+  <data name="&gt;&gt;btnAddIngredients.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAddIngredients.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;btnAddIngredients.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;comboBoxCategory.Name" xml:space="preserve">
+    <value>comboBoxCategory</value>
+  </data>
+  <data name="&gt;&gt;comboBoxCategory.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBoxCategory.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;comboBoxCategory.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBoxNameOfRecipe.Name" xml:space="preserve">
+    <value>textBoxNameOfRecipe</value>
+  </data>
+  <data name="&gt;&gt;textBoxNameOfRecipe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxNameOfRecipe.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;textBoxNameOfRecipe.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lblComboBoxCategory.Name" xml:space="preserve">
+    <value>lblComboBoxCategory</value>
+  </data>
+  <data name="&gt;&gt;lblComboBoxCategory.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblComboBoxCategory.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;lblComboBoxCategory.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lblNameOfRecipe.Name" xml:space="preserve">
+    <value>lblNameOfRecipe</value>
+  </data>
+  <data name="&gt;&gt;lblNameOfRecipe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblNameOfRecipe.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;lblNameOfRecipe.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="groupBoxAddRecipe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>60, 72</value>
+  </data>
+  <data name="groupBoxAddRecipe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>909, 646</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="groupBoxAddRecipe.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="groupBoxAddRecipe.Text" xml:space="preserve">
+    <value>Add new recipe</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAddRecipe.Name" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAddRecipe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAddRecipe.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBoxAddRecipe.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="textBoxDescription.Location" type="System.Drawing.Point, System.Drawing">
+    <value>39, 223</value>
+  </data>
+  <data name="textBoxDescription.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="textBoxDescription.Size" type="System.Drawing.Size, System.Drawing">
+    <value>832, 391</value>
+  </data>
+  <data name="textBoxDescription.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;textBoxDescription.Name" xml:space="preserve">
+    <value>textBoxDescription</value>
+  </data>
+  <data name="&gt;&gt;textBoxDescription.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxDescription.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;textBoxDescription.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnAddIngredients.Location" type="System.Drawing.Point, System.Drawing">
+    <value>574, 136</value>
+  </data>
+  <data name="btnAddIngredients.Size" type="System.Drawing.Size, System.Drawing">
+    <value>297, 52</value>
+  </data>
+  <data name="btnAddIngredients.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btnAddIngredients.Text" xml:space="preserve">
+    <value>Add ingredients</value>
+  </data>
+  <data name="&gt;&gt;btnAddIngredients.Name" xml:space="preserve">
+    <value>btnAddIngredients</value>
+  </data>
+  <data name="&gt;&gt;btnAddIngredients.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAddIngredients.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;btnAddIngredients.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="comboBoxCategory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 138</value>
+  </data>
+  <data name="comboBoxCategory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>248, 39</value>
+  </data>
+  <data name="comboBoxCategory.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;comboBoxCategory.Name" xml:space="preserve">
+    <value>comboBoxCategory</value>
+  </data>
+  <data name="&gt;&gt;comboBoxCategory.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBoxCategory.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;comboBoxCategory.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textBoxNameOfRecipe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 63</value>
+  </data>
+  <data name="textBoxNameOfRecipe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>593, 38</value>
+  </data>
+  <data name="textBoxNameOfRecipe.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBoxNameOfRecipe.Name" xml:space="preserve">
+    <value>textBoxNameOfRecipe</value>
+  </data>
+  <data name="&gt;&gt;textBoxNameOfRecipe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxNameOfRecipe.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;textBoxNameOfRecipe.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblComboBoxCategory.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblComboBoxCategory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 147</value>
+  </data>
+  <data name="lblComboBoxCategory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 32</value>
+  </data>
+  <data name="lblComboBoxCategory.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lblComboBoxCategory.Text" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="&gt;&gt;lblComboBoxCategory.Name" xml:space="preserve">
+    <value>lblComboBoxCategory</value>
+  </data>
+  <data name="&gt;&gt;lblComboBoxCategory.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblComboBoxCategory.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;lblComboBoxCategory.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lblNameOfRecipe.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblNameOfRecipe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 69</value>
+  </data>
+  <data name="lblNameOfRecipe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>206, 32</value>
+  </data>
+  <data name="lblNameOfRecipe.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblNameOfRecipe.Text" xml:space="preserve">
+    <value>Name of recipe</value>
+  </data>
+  <data name="&gt;&gt;lblNameOfRecipe.Name" xml:space="preserve">
+    <value>lblNameOfRecipe</value>
+  </data>
+  <data name="&gt;&gt;lblNameOfRecipe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblNameOfRecipe.Parent" xml:space="preserve">
+    <value>groupBoxAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;lblNameOfRecipe.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="listBoxRecipes.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Courier New, 8.1pt</value>
+  </data>
+  <data name="listBoxRecipes.ItemHeight" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="listBoxRecipes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1016, 165</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="listBoxRecipes.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 50, 3</value>
+  </data>
+  <data name="listBoxRecipes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1123, 514</value>
+  </data>
+  <data name="listBoxRecipes.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;listBoxRecipes.Name" xml:space="preserve">
+    <value>listBoxRecipes</value>
+  </data>
+  <data name="&gt;&gt;listBoxRecipes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBoxRecipes.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listBoxRecipes.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="btnAddRecipe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>99, 756</value>
+  </data>
+  <data name="btnAddRecipe.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 50</value>
+  </data>
+  <data name="btnAddRecipe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>832, 54</value>
+  </data>
+  <data name="btnAddRecipe.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnAddRecipe.Text" xml:space="preserve">
+    <value>Add Recipe</value>
+  </data>
+  <data name="&gt;&gt;btnAddRecipe.Name" xml:space="preserve">
+    <value>btnAddRecipe</value>
+  </data>
+  <data name="&gt;&gt;btnAddRecipe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnAddRecipe.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnAddRecipe.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="lblName.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1010, 127</value>
+  </data>
+  <data name="lblName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 32</value>
+  </data>
+  <data name="lblName.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lblName.Text" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="&gt;&gt;lblName.Name" xml:space="preserve">
+    <value>lblName</value>
+  </data>
+  <data name="&gt;&gt;lblName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblName.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblName.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lblNumberOfIngredients.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblNumberOfIngredients.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1312, 127</value>
+  </data>
+  <data name="lblNumberOfIngredients.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 32</value>
+  </data>
+  <data name="lblNumberOfIngredients.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lblNumberOfIngredients.Text" xml:space="preserve">
+    <value># of ingred.</value>
+  </data>
+  <data name="&gt;&gt;lblNumberOfIngredients.Name" xml:space="preserve">
+    <value>lblNumberOfIngredients</value>
+  </data>
+  <data name="&gt;&gt;lblNumberOfIngredients.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblNumberOfIngredients.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblNumberOfIngredients.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lblCategory.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCategory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1475, 127</value>
+  </data>
+  <data name="lblCategory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 32</value>
+  </data>
+  <data name="lblCategory.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="lblCategory.Text" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="&gt;&gt;lblCategory.Name" xml:space="preserve">
+    <value>lblCategory</value>
+  </data>
+  <data name="&gt;&gt;lblCategory.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCategory.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblCategory.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lblDescription.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDescription.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1695, 127</value>
+  </data>
+  <data name="lblDescription.Size" type="System.Drawing.Size, System.Drawing">
+    <value>158, 32</value>
+  </data>
+  <data name="lblDescription.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="lblDescription.Text" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="&gt;&gt;lblDescription.Name" xml:space="preserve">
+    <value>lblDescription</value>
+  </data>
+  <data name="&gt;&gt;lblDescription.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDescription.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblDescription.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnDelete_MainForm.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnDelete_MainForm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnDelete_MainForm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1453, 710</value>
+  </data>
+  <data name="btnDelete_MainForm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>282, 79</value>
+  </data>
+  <data name="btnDelete_MainForm.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btnDelete_MainForm.Text" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="&gt;&gt;btnDelete_MainForm.Name" xml:space="preserve">
+    <value>btnDelete_MainForm</value>
+  </data>
+  <data name="&gt;&gt;btnDelete_MainForm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDelete_MainForm.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnDelete_MainForm.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnExit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnExit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1928, 768</value>
+  </data>
+  <data name="btnExit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>211, 54</value>
+  </data>
+  <data name="btnExit.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnExit.Text" xml:space="preserve">
+    <value>Exit Program</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Name" xml:space="preserve">
+    <value>btnExit</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnExit.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>2198, 49</value>
+  </data>
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="fileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 45</value>
+  </data>
+  <data name="fileToolStripMenuItem.Text" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="infoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 46</value>
+  </data>
+  <data name="infoToolStripMenuItem.Text" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="btnEdit_MainForm.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnEdit_MainForm.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnEdit_MainForm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1091, 710</value>
+  </data>
+  <data name="btnEdit_MainForm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>282, 79</value>
+  </data>
+  <data name="btnEdit_MainForm.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="btnEdit_MainForm.Text" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="&gt;&gt;btnEdit_MainForm.Name" xml:space="preserve">
+    <value>btnEdit_MainForm</value>
+  </data>
+  <data name="&gt;&gt;btnEdit_MainForm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnEdit_MainForm.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnEdit_MainForm.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnUnselect.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnUnselect.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnUnselect.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1928, 685</value>
+  </data>
+  <data name="btnUnselect.Size" type="System.Drawing.Size, System.Drawing">
+    <value>211, 54</value>
+  </data>
+  <data name="btnUnselect.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btnUnselect.Text" xml:space="preserve">
+    <value>Unselect</value>
+  </data>
+  <data name="&gt;&gt;btnUnselect.Name" xml:space="preserve">
+    <value>btnUnselect</value>
+  </data>
+  <data name="&gt;&gt;btnUnselect.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnUnselect.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnUnselect.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblCurrentNumberOfRecipes.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCurrentNumberOfRecipes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1721, 53</value>
+  </data>
+  <data name="lblCurrentNumberOfRecipes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>350, 32</value>
+  </data>
+  <data name="lblCurrentNumberOfRecipes.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="lblCurrentNumberOfRecipes.Text" xml:space="preserve">
+    <value>Current number of recipes:</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentNumberOfRecipes.Name" xml:space="preserve">
+    <value>lblCurrentNumberOfRecipes</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentNumberOfRecipes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentNumberOfRecipes.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblCurrentNumberOfRecipes.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="lblCount_MainForm.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCount_MainForm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2077, 53</value>
+  </data>
+  <data name="lblCount_MainForm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 32</value>
+  </data>
+  <data name="lblCount_MainForm.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;lblCount_MainForm.Name" xml:space="preserve">
+    <value>lblCount_MainForm</value>
+  </data>
+  <data name="&gt;&gt;lblCount_MainForm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCount_MainForm.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lblCount_MainForm.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>16, 31</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>2198, 834</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;fileToolStripMenuItem.Name" xml:space="preserve">
+    <value>fileToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;fileToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;infoToolStripMenuItem.Name" xml:space="preserve">
+    <value>infoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;infoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

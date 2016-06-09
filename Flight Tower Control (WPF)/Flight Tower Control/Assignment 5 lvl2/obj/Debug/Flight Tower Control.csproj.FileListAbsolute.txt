@@ -1,0 +1,15 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\bin\Debug\Assignment 5 lvl2.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\bin\Debug\Assignment 5 lvl2.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\bin\Debug\Assignment 5 lvl2.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Flight Tower Control.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\ControlTowerWindow.baml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\FlightWindow.baml
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\ControlTowerWindow.g.cs
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\FlightWindow.g.cs
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\App.g.cs
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment 5 lvl2_MarkupCompile.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment 5 lvl2.g.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment_5_lvl2.Properties.Resources.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Flight Tower Control.csproj.GenerateResource.Cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment 5 lvl2.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment 5 lvl2.pdb

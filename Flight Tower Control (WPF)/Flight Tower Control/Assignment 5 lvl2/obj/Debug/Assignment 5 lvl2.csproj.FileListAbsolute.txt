@@ -1,0 +1,15 @@
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\bin\Debug\Assignment 5 lvl2.exe.config
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\bin\Debug\Assignment 5 lvl2.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\bin\Debug\Assignment 5 lvl2.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment 5 lvl2.csprojResolveAssemblyReference.cache
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\App.g.cs
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment 5 lvl2_MarkupCompile.cache
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment 5 lvl2.g.resources
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment_5_lvl2.Properties.Resources.resources
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment 5 lvl2.csproj.GenerateResource.Cache
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment 5 lvl2.exe
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\Assignment 5 lvl2.pdb
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\ControlTowerWindow.baml
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\ControlTowerWindow.g.cs
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\FlightWindow.baml
+c:\users\viktor\documents\visual studio 2013\Projects\Assignment 5 lvl2\Assignment 5 lvl2\obj\Debug\FlightWindow.g.cs

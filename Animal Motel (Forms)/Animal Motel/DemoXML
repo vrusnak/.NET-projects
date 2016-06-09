@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recipe>
+    <MyList />
+    <Name>Parrot special</Name>
+    <Ingredients>
+      <MyList>
+        <string>Corn</string>
+        <string>Nuts</string>
+      </MyList>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <MyList />
+    <Name>Dog special</Name>
+    <Ingredients>
+      <MyList>
+        <string>Water</string>
+        <string>Bones</string>
+      </MyList>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <MyList />
+    <Name>Dolphin special</Name>
+    <Ingredients>
+      <MyList>
+        <string>Self-feeding (No ingredients)</string>
+      </MyList>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <MyList />
+    <Name>Lizzard special</Name>
+    <Ingredients>
+      <MyList>
+        <string>Flies</string>
+      </MyList>
+    </Ingredients>
+  </Recipe>
+</ArrayOfRecipe>

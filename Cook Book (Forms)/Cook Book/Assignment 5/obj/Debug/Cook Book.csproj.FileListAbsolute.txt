@@ -1,0 +1,11 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5\Assignment 5\obj\Debug\Cook Book.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5\Assignment 5\obj\Debug\Assignment_5.EditIngredientForm.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5\Assignment 5\obj\Debug\Assignment_5.IngredientsForm.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5\Assignment 5\obj\Debug\Assignment_5.MainForm.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5\Assignment 5\obj\Debug\Cook Book.csproj.GenerateResource.Cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb

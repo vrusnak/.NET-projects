@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BDBF9E9F-A3DC-4CB0-AFD6-A1C1EAB653A1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Assignment_4_lvl2</RootNamespace>
+    <AssemblyName>Animal Motel</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>motel.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animal.cs" />
+    <Compile Include="Bird\Bird.cs" />
+    <Compile Include="Bird\Eagle.cs" />
+    <Compile Include="Bird\Parrot.cs" />
+    <Compile Include="Enum classes\Category.cs" />
+    <Compile Include="Enum classes\EaterType.cs" />
+    <Compile Include="Enum classes\Gender.cs" />
+    <Compile Include="FoodSchedule.cs" />
+    <Compile Include="Form classes\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form classes\MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Insect\Bee.cs" />
+    <Compile Include="Insect\Butterfly.cs" />
+    <Compile Include="Insect\Insect.cs" />
+    <Compile Include="Interface\IAnimal.cs" />
+    <Compile Include="Interface\IListManager.cs" />
+    <Compile Include="Mammal\Bear.cs" />
+    <Compile Include="Mammal\Cat.cs" />
+    <Compile Include="Mammal\Deer.cs" />
+    <Compile Include="Mammal\Dog.cs" />
+    <Compile Include="Mammal\Mammal.cs" />
+    <Compile Include="Manager classes\AnimalManager.cs" />
+    <Compile Include="Manager classes\ListManager.cs" />
+    <Compile Include="Manager classes\RecipeManager.cs" />
+    <Compile Include="Marine\Dolphin.cs" />
+    <Compile Include="Marine\Marine.cs" />
+    <Compile Include="Marine\Shark.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Form classes\RecipeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form classes\RecipeForm.designer.cs">
+      <DependentUpon>RecipeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form classes\StaffForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form classes\StaffForm.designer.cs">
+      <DependentUpon>StaffForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recipe.cs" />
+    <Compile Include="Reptile\Crocodile.cs" />
+    <Compile Include="Reptile\Lizard.cs" />
+    <Compile Include="Reptile\Reptile.cs" />
+    <Compile Include="Reptile\Snake.cs" />
+    <Compile Include="Staff.cs" />
+    <EmbeddedResource Include="Form classes\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Form classes\RecipeForm.resx">
+      <DependentUpon>RecipeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form classes\StaffForm.resx">
+      <DependentUpon>StaffForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bear.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\butterfly.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\croc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dog.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dolphin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eagle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons8-Ios7-Animals-Dog-House.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lizard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parrot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recipeform.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shark.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staffform.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="motel.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

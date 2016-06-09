@@ -1,0 +1,10 @@
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6\Assingment 6\bin\Debug\Assingment 6.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6\Assingment 6\bin\Debug\Assingment 6.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6\Assingment 6\bin\Debug\Assingment 6.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6\Assingment 6\obj\Debug\Customer Registry.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6\Assingment 6\obj\Debug\Assingment_6.ContactForm.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6\Assingment 6\obj\Debug\Assingment_6.MainForm.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6\Assingment 6\obj\Debug\Assingment_6.Properties.Resources.resources
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6\Assingment 6\obj\Debug\Customer Registry.csproj.GenerateResource.Cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6\Assingment 6\obj\Debug\Assingment 6.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\Assignment 6\Assingment 6\obj\Debug\Assingment 6.pdb
